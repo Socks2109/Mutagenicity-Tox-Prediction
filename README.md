@@ -1,4 +1,4 @@
-# Mutagenicity toxicity prediction
+# Mutagenicity prediction
 
 This project was coded in Google Colab.
 
