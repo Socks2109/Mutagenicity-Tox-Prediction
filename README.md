@@ -1,4 +1,4 @@
-# CDD203_FP
+# Mutagenicity toxicity prediction
 
 This project was coded in Google Colab.
 
